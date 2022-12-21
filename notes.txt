@@ -1,0 +1,5 @@
+Things i Learn
+
+1) disable option in button
+2) conditional rendering for [no-birthday, 1-Birthday, 5-Birthdays]
+3) disabled Attribute in button
